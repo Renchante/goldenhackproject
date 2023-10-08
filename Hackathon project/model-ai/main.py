@@ -145,3 +145,4 @@ if __name__ == '__main__':
 
     openDermDetectGUI()
     tk.mainloop()
+#updated for alice
